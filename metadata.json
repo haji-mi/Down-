@@ -1,0 +1,6 @@
+{
+  "name": "Download Cleaner",
+  "description": "Python 3.10+ 本地下载文件夹自动整理与归类工具及配套管理面板",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
